@@ -1,22 +1,7 @@
-import { useState } from 'react'
 import './App.css'
 import { Stream } from "@cloudflare/stream-react";
-/*
-
-
-
-export const App = () => {
-  
-  return (
-    
-  );
-};
-
-*/
 
 function App() {
-  
-
   return (
     <>
      <div >
@@ -28,7 +13,5 @@ function App() {
     </>
   )
 }
-
-
 
 export default App
