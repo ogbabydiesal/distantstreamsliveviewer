@@ -21,12 +21,7 @@ function App() {
     <>
      <div >
       <p>Distant Streams</p>
-      <iframe
-        src="https://customer-fmbage4kryht0m2f.cloudflarestream.com/e23e3d007999040c74e0d4a82ae856ec/iframe"
-        
-        allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-        allowFullScreen={true}
-      ></iframe>
+      <iframe width="560" height="315" src="https://youtube.com/live/sXD6_vs-7FI?feature=share" frameborder="0" allowfullscreen></iframe>
     </div>
 
       
